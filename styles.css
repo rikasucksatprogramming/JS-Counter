@@ -1,0 +1,23 @@
+#btnContainer {
+    text-align: center;
+    
+}
+button {
+    font-family: Helvetica;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+button:hover {
+    background-color: rgb(86, 220, 175);
+}
+
+label {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+}
